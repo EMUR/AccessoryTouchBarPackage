@@ -1,3 +1,4 @@
+/*
 MIT License
 
 Copyright (c) 2020 Eyad Murshid
@@ -19,3 +20,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+*/
+
+import UIKit
+
+
+enum TouchBarAppearance { case light; case dark }
+
+internal var lightColor = UIColor(red: 214 / 255.0, green: 216 / 255.0, blue: 221 / 255.0, alpha: 1.0)
+internal var darkColor = UIColor(red: 106 / 255.0, green: 106 / 255.0, blue: 106 / 255.0, alpha: 1.0)

@@ -1,3 +1,4 @@
+/*
 MIT License
 
 Copyright (c) 2020 Eyad Murshid
@@ -19,3 +20,42 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+*/
+
+import Foundation
+
+
+struct TouchBarButton {
+    var title: String
+    var image: String? = nil
+    var identifier: TouchBarButtonIdentifier? = nil
+}
+
+protocol TouchBarButtonIdentifier {}
+
+enum HomeViewIdentifier: TouchBarButtonIdentifier {
+    case clearField
+    case copyToClipboard
+    case pasteFromClipboard
+    case hideKeyboard
+    case emojis
+    case emailDomains
+    case hashText
+    case zoom
+    case numberPad
+    case todaysDate
+    case formatText
+}
+
+enum HashViewIdentifier: TouchBarButtonIdentifier {
+    case SHA256
+    case SHA512
+    case SHA384
+    case MD5
+}
+
+enum FormatViewIdentifier: TouchBarButtonIdentifier {
+    case caps
+    case removeWhitespace
+    case wrapInBrackets
+}
