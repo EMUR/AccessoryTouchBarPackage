@@ -38,7 +38,7 @@ myTextView.addTouchBarSupport(options: [.emailDomains, .zoom, .formatText, .hide
 
 This will allow `myTextField` to only show the options specified, you can customize the options per text field to provide the best user experience.
 
-☝️ *The package was build with modularity in mind, so you can create your own custom options and enhance existing ones.*
+☝️ *The package was built with modularity in mind, so you can create your own custom options and enhance existing ones.*
 
 ## ⭐️ Features/Examples:
 
@@ -66,7 +66,7 @@ This will allow `myTextField` to only show the options specified, you can custom
 
 <img src="https://i.imgur.com/QJUriYN.gif" width="300px"/>
 
-> If you have ever felts that it's hard for you to read or scroll through the content of a text field, maybe the text is too small? or the font is not clear? The *Zoom* functionality is perfect for that. It will zoom in the text of the label and will allow you to edit the content with a much more clarity.
+> If you have ever felt that it's hard for you to read or scroll through the content of a text field, maybe the text is too small? or the font is not clear? The *Zoom* functionality is perfect for that. It will zoom in the text of the label and will allow you to edit the content with a much more clarity.
 
 </br>
 </br>
@@ -96,6 +96,6 @@ Built with ❤︎ by [Eyad Murshid](https://www.linkedin.com/in/eyadmurshid/)
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## 🙏 Acknowledgments
-- Apple for SF Symbols (used fro TouchBar icons) and their awesome OS!
+- Apple for SF Symbols (used for TouchBar icons) and their awesome OS!
 - Everyone who used it, forked it or favorite it!
 
