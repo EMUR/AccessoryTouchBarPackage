@@ -25,7 +25,7 @@ SOFTWARE.
 import UIKit
 
 extension UITextField {
-    func addTouchBarSupport(options: [HomeViewIdentifier] = [.clearField, .copyToClipboard, .emailDomains, .emojis, .formatText, .hashText, .hideKeyboard, .numberPad, .pasteFromClipboard, .todaysDate, .zoom]) {
+    public func addTouchBarSupport(options: [HomeViewIdentifier] = [.clearField, .copyToClipboard, .emailDomains, .emojis, .formatText, .hashText, .hideKeyboard, .numberPad, .pasteFromClipboard, .todaysDate, .zoom]) {
         let touchBar = AccessoryTouchBar(for: self, options: options)
         inputAccessoryView?.removeFromSuperview()
         inputAccessoryView = touchBar
@@ -33,7 +33,7 @@ extension UITextField {
 }
 
 extension UITextView {
-    func addTouchBarSupport(options: [HomeViewIdentifier] = [.clearField, .copyToClipboard, .emailDomains, .emojis, .formatText, .hashText, .hideKeyboard, .numberPad, .pasteFromClipboard, .todaysDate, .zoom]) {
+    public func addTouchBarSupport(options: [HomeViewIdentifier] = [.clearField, .copyToClipboard, .emailDomains, .emojis, .formatText, .hashText, .hideKeyboard, .numberPad, .pasteFromClipboard, .todaysDate, .zoom]) {
         let touchBar = AccessoryTouchBar(for: self, options: options)
         inputAccessoryView?.removeFromSuperview()
         inputAccessoryView = touchBar

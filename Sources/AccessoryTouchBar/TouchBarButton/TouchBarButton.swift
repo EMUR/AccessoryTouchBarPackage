@@ -33,7 +33,7 @@ struct TouchBarButton {
 
 protocol TouchBarButtonIdentifier {}
 
-enum HomeViewIdentifier: TouchBarButtonIdentifier {
+public enum HomeViewIdentifier: TouchBarButtonIdentifier {
     case clearField
     case copyToClipboard
     case pasteFromClipboard
