@@ -1,6 +1,8 @@
 # AccessoryTouchBar
 
-<img src="https://i.imgur.com/GluJQy3.png" alt="img" style="zoom: 67%;" />
+<p align="center"> 
+<img src="https://i.imgur.com/GluJQy3.png" width="60%"/>
+</p>
 
 ## Description:
 
@@ -34,19 +36,17 @@ The package was build with modulaity in mind, so you can create your own custom 
 
 ## Features/Example:
 
-<img src="https://i.imgur.com/XYIQsVh.gif" alt="img" style="zoom: 33%;" />
+<img src="https://i.imgur.com/vVgoUWD.gif" width="33%"/>
 
 - You can use the *Email Domians* option to quickly access common domains, tapping on any of them will autocomplete you field. Addionally, you can easily copy/paste any text in the field by easy to access buttons. To go back to the main menu, you just have to swipe down and the current view will be dismissed back to main.
 
-  
-
-<img src="https://i.imgur.com/apcT41o.gif" alt="img" style="zoom: 33%;" />
+<img src="https://i.imgur.com/apcT41o.gif" width="33%"/>
 
 - An Always one number pad view is useful when you are computing tasks that needs both letters and digits, making it faster to access both simultaneously
 
 
 
-<img src="https://i.imgur.com/VGzlkYL.gif" alt="img" style="zoom: 33%;" />
+<img src="https://i.imgur.com/JSwBaWo.gif" width="33%"/>
 
 - Forgot what day is today? no problem, *Today's Date* is a convenient way of auto filling today's date with the format of your choice, making it just a bit faster than looking up and typing today's date.
 
@@ -58,19 +58,18 @@ The package was build with modulaity in mind, so you can create your own custom 
 
 
 
-<img src="https://i.imgur.com/w3ycbM3.gif" alt="img" style="zoom: 33%;" />
+<img src="https://i.imgur.com/qYjgR9v.gif" width="33%"/>
 
 - When dealing with a lot of text, you might want to start over, the *Clear Field* will make that possible with a tap of a button. You will also have access to all of your favorite emojis as well as well as a quick formatting functionalities, like *Make First Character Capital*. Additionally, you can also hash the content of the text field to SHA256, SHA384, SHA512 and MD5, because why not :stuck_out_tongue:
 
 
 
-<img src="https://i.imgur.com/dKRQ8zk.gif" alt="img" style="zoom: 33%;" />
+<img src="https://i.imgur.com/qYjgR9v.gif" width="33%"/>
 
 - Of course, the touchbar will adapt based on the current keyboard look.
 
 
-
-<img src="https://i.imgur.com/qGdBzPg.gif" alt="img" style="zoom: 33%;" />
+<img src="https://i.imgur.com/7C30mf3.gif" width="66%"/>
 
 - The touchbar also supports Landscape mode.
 
