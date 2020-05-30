@@ -6,7 +6,7 @@
 
 A swift package that introduces the MacOS touchbar concept to iOS/iPadOS devices.
 
-AccessoryTouchBar supports various functionalities such as, copying/pasting texts, clearing out text fields, formatting texts, dedicated numerpad, hiding the keyboard and many more.
+AccessoryTouchBar supports various functionalities such as copying/pasting texts, clearing out text fields, formatting texts, dedicated number pad, hiding the keyboard, and many more.
 </br>
 
 ## 🚀 Installation
@@ -44,7 +44,7 @@ This will allow `myTextField` to only show the options specified, you can custom
 
 <img src="https://i.imgur.com/nx15K1m.gif" width="300px"/>
 
-> You can use the *Email Domains* option to quickly access common domains, tapping on any of them will autocomplete you field. Additionally, you can easily copy/paste any text in the field by easy to access buttons. To go back to the main menu, you just have to swipe down and the current view will be dismissed back to main.
+> You can use the *Email Domains* option to quickly access common domains, tapping on any of them will autocomplete your field. Additionally, you can easily copy/paste any text in the field by easy to access buttons. To go back to the main menu, you just have to swipe down and the current view will be dismissed back to main.
 
 
 </br>
@@ -52,28 +52,28 @@ This will allow `myTextField` to only show the options specified, you can custom
 
 <img src="https://i.imgur.com/apcT41o.gif" width="300px"/>
 
-> An Always one number pad view is useful when you are computing tasks that needs both letters and digits, making it faster to access both simultaneously
+> An Always one number pad view is useful when you are computing tasks that need both letters and digits, making it faster to access both simultaneously
 
 </br>
 </br>
 
 <img src="https://i.imgur.com/JSwBaWo.gif" width="300px"/>
 
-> Forgot what day is today? no problem, *Today's Date* is a convenient way of auto filling today's date with the format of your choice, making it just a bit faster than looking up and typing today's date.
+> Forgot what day is today? no problem, *Today's Date* is a convenient way of auto-filling today's date with the format of your choice, making it just a bit faster than looking up and typing today's date.
 
 </br>
 </br>
 
 <img src="https://i.imgur.com/QJUriYN.gif" width="300px"/>
 
-> If you have ever felt that it's hard for you to read or scroll through the content of a text field, maybe the text is too small? or the font is not clear? The *Zoom* functionality is perfect for that. It will zoom in the text of the label and will allow you to edit the content with a much more clarity.
+> If you have ever felt that it's hard for you to read or scroll through the content of a text field, maybe the text is too small? or the font is not clear? The *Zoom* functionality is perfect for that. It will zoom in the text of the label and will allow you to edit the content with much more clarity.
 
 </br>
 </br>
 
 <img src="https://i.imgur.com/Nw77LRh.gif" width="300px"/>
 
-> When dealing with a lot of text, you might want to start over, the *Clear Field* will make that possible with a tap of a button. You will also have access to all of your favorite emojis as well as well as a quick formatting functionalities, like *Make First Character Capital*. Additionally, you can also hash the content of the text field to SHA256, SHA384, SHA512 and MD5, because why not :stuck_out_tongue:
+> When dealing with a lot of text, you might want to start over, the *Clear Field* will make that possible with a tap of a button. You will also have access to all of your favorite emojis as well as quick formatting functionality, like *Make First Character Capital*. Additionally, you can also hash the content of the text field to SHA256, SHA384, SHA512, and MD5, because why not :stuck_out_tongue:
 
 </br>
 </br>
@@ -97,5 +97,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 🙏 Acknowledgments
 - Apple for SF Symbols (used for TouchBar icons) and their awesome OS!
-- Everyone who used it, forked it or favorite it!
-
+- Everyone who used it forked it or favorite it!
