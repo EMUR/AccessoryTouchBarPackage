@@ -40,7 +40,7 @@ The package was build with modulaity in mind, so you can create your own custom 
 
   
 
-<img src="https://i.imgur.com/oahRfMq.gif" alt="img" style="zoom: 33%;" />
+<img src="https://i.imgur.com/apcT41o.gif" alt="img" style="zoom: 33%;" />
 
 - An Always one number pad view is useful when you are computing tasks that needs both letters and digits, making it faster to access both simultaneously
 
